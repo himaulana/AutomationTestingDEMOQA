@@ -5,8 +5,10 @@ Proyek ini adalah proyek otomatisasi pengujian yang dikembangkan menggunakan Pyt
 ### Persyaratan
 Sebelum Anda menjalankan pengujian, pastikan Anda sudah menginstal persyaratan berikut:
 
-1. Python 3.x
-2. Selenium
+1. Python 3.11
+2. Pytest 7.4
+3. Selenium 4.14
+4. Pytest-xdist 3.3
 
    
 ### Fitur
